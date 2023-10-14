@@ -1,6 +1,7 @@
+![logo](https://github.com/DEVA090403/DEVA090403/blob/main/Devansh%20Srivastava.png)
 <h1 align="center">Hi 👋, I'm Devansh Srivastava</h1>
-<h3 align="center">A passionate Programmer, Solving Real-World Problems with Python and SQL.Optimize Data Management from India</h3>
-
+<h3 align="center">A passionate Programmer, Solving Real-World Problems with Python and SQL. Optimize Data Management from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deva090403&label=Profile%20views&color=0e75b6&style=flat" alt="deva090403" /> </p>
 
 - 🔭 I’m currently working on **Python-DSA**
