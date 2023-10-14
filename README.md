@@ -1,4 +1,4 @@
-[![MasterHead](https://www.blogger.com/blog/post/edit/1471625106465350760/3031570534406691241)](https://rishavchanda.io)
+![logo](https://github.com/DEVA090403/DEVA090403/blob/main/Devansh%20Srivastava.png)
 <h1 align="center">Hi 👋, I'm Devansh Srivastava</h1>
 <h3 align="center">A passionate Programmer, Solving Real-World Problems with Python and SQL.Optimize Data Management from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
