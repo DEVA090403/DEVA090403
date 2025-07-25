@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **Python-DSA**
+- 🔭 I’m currently working on **Spark**
 
-- 🌱 I’m currently learning **Tikinter-Python**
+- 🌱 I’m currently learning **Data Engineering**
 
-- 💬 Ask me about **Python, MySQL,C\C++**
+- 💬 Ask me about **Python, MySQL, Hadoop, Sxala**
 
 - 📫 How to reach me **devasrivastav.09@gmail.com**
 
