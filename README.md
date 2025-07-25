@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Engineering**
 
-- 💬 Ask me about **Python, MySQL, Hadoop, Sxala**
+- 💬 Ask me about **Python, MySQL, Hadoop, Scala**
 
 - 📫 How to reach me **devasrivastav.09@gmail.com**
 
